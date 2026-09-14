@@ -95,7 +95,7 @@
 | Hacknovate | Team Member | **Top 5 of 500+ teams** — *Flow* (fatigue-detection ML) |
 | SST Meta Hackathon | Team Member | *Ampere* (open-source LLM, EV routing) |
 | College Tech Expo | Team Lead | Final showcase — *Vital Nova*, *Rail Sanchaalak* |
-| Adobe University Hackathon | Participant | Cleared the DSA round; participation certificate |
+| Adobe University Hackathon | Team Lead | 
 
 ---
 
