@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:navistha2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/navistha-pandey-34a189357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -76,14 +76,13 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[DiliGent](https://github.com/Navistha/Buildathon)** — *DiliGent* | AI vendor/invoice due-diligence agent (Razorpay Buildathon, AI Finance Controller track). Solo-built end-to-end: FastAPI backend, React dashboard, and a neural network implemented from scratch in NumPy (fully local, no external LLM/cloud calls) — ~96% test accuracy on synthetic fraud/anomaly detection | Python, FastAPI, NumPy, SQLite |
-| **[Flow](https://github.com/NehalAjmal/Flow)** *(contributor)* | AI-powered productivity tracker with real-time fatigue detection. Built the FastAPI backend (sub-500ms response) exposing fatigue/keystroke signals; fatigue detection via MediaPipe + OpenCV (200–500ms inference). Core ML/backend engineer on a 4-person team — **Top 5 of 500+ teams** at Hacknovate | Python, FastAPI, MediaPipe, OpenCV |
-| **[ampere](https://github.com/Erichthonius07/ampere)** *(contributor)* | Open-source LLM training for EV route optimization. Designed an RL pipeline with a custom reward function, evaluated across 3 difficulty levels and 6 Indian cities under real Tata Nexon constraints; fine-tuned an LLM for dynamic charging-stop recommendations and deployed via Docker to Hugging Face Hub | Python, RL, LLM fine-tuning, Docker |
-| **[SYNC'D](https://github.com/Erichthonius07/Syncd-ARCP)** *(contributor)* | Offline-to-online multiplayer game platform. Architected the backend coordination layer — REST APIs syncing real-time game state across 2–4 player sessions at 50–100ms latency, plus device-level game discovery and a zero-collision screen-partitioning system | Flutter, Java, REST APIs |
-| **[Rail Sanchaalak](https://github.com/Navistha/TrainTraffic)** — *Rail Sanchaalak* | Smart India Hackathon 2025 submission (Team Lead, internal round qualifier) — [one line on the specific train traffic/scheduling problem it solves] | TypeScript |
-| **[VitalNova](https://github.com/Navistha/VitalNova)** | Personal project, also showcased at the College Tech Expo — [one line: e.g. "health-monitoring app with anomaly alerts"] | TypeScript |
+| **[Buildathon](https://github.com/Navistha/Buildathon)** — *DiliGent* | AI vendor/invoice due-diligence agent (Razorpay Buildathon, AI Finance Controller track). Solo-built end-to-end: FastAPI backend, React dashboard, and a neural network implemented from scratch in NumPy (fully local, no external LLM/cloud calls) — ~96% test accuracy on synthetic fraud/anomaly detection | Python, FastAPI, NumPy, SQLite |
+| **[Flow-hacknovate7.0](https://github.com/NehalAjmal/Flow-hacknovate7.0)** *(contributor)* | AI-powered productivity tracker with real-time fatigue detection. Built the FastAPI backend (sub-500ms response) exposing fatigue/keystroke signals; fatigue detection via MediaPipe + OpenCV (200–500ms inference). Core ML/backend engineer on a 4-person team — **Top 5 of 500+ teams** at Hacknovate | Python, FastAPI, MediaPipe, OpenCV |
+| **[ampere](https://github.com/Erichthonius07/ampere)** *(contributor)* | LLM agent (Llama 3.3 70B) acting as an EV trip dispatcher, routing a real Tata Curvv EV across Indian highway corridors under real physics and infrastructure constraints. Built as an OpenEnv simulation with a **hybrid neuro-symbolic architecture** — an LLM pathfinder paired with a deterministic physics-engine autopilot enforcing battery, terrain, and MORTH fatigue rules as a POMDP. Evaluated across 3 tasks (up to 1,110km, stochastic charger failures) using real highway data; deployed to Hugging Face Spaces via Docker | Python, FastAPI, Llama 3.3 (Groq), NetworkX, Pydantic, Docker |
+| **[SYNC'D](https://github.com/Erichthonius07/Syncd-ARCP)** *(contributor)* | Multiplayer social gaming platform that makes local-multiplayer-only Android games playable over the internet. Built the **WebSocket & real-time synchronization engine** powering live gameplay sync, alongside a Flutter frontend and Spring Boot + PostgreSQL backend (auth, friends, lobbies, chat, activity feed) built by the team | Flutter, Java (Spring Boot), PostgreSQL, WebSocket |
+| **[TrainTraffic](https://github.com/Navistha/TrainTraffic)** — *Rail Sanchaalak* | AI-powered railway freight logistics platform (SIH 2025, Team Lead). As Backend Lead: built core Booking & Station REST APIs and oversaw system integration. Platform combines a Random Forest delay-prediction model with Google OR-Tools (CP-SAT) constraint-based scheduling across role-based dashboards (Station Master, Section Controller, Freight Operator, Track Manager) | Python, Django, React, PostgreSQL, OR-Tools, scikit-learn |
+| **[VitalNova](https://github.com/Navistha/VitalNova)** | Personal AI wellness platform, also showcased at the College Tech Expo. Web app that takes a photo as input for on-device skin disease detection via an ONNX model, alongside a wellness chatbot, mood journal, and notifications system. Django REST backend (modular apps: skin detection, chatbot, notifications, users) + React/Vite frontend | Python, Django, ONNX, React, Vite, Tailwind CSS |
 
-> ✏️ Fill in the two remaining brackets (TrainTraffic + VitalNova one-liners). Consider renaming the actual GitHub repos to match: "Buildathon" → "DiliGent", "TrainTraffic" → "Rail Sanchaalak" (or keep both, with the real name in the description).
 
 ---
 
@@ -112,3 +111,5 @@
 </p>
 
 ---
+
+<p align="center"><i>Open to backend, AI/ML, and SDE internship roles — let's connect!</i></p>
